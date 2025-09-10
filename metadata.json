@@ -1,0 +1,5 @@
+{
+  "name": "InfinityPay",
+  "description": "Aplikasi web modern satu halaman untuk mengecek saldo kartu tol e-money Indonesia menggunakan NFC atau input manual. Mendukung kartu utama seperti Mandiri e-Money, BRIZZI, TapCash, Flazz, dan JakCard.",
+  "requestFramePermissions": []
+}
